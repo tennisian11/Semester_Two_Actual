@@ -1,0 +1,59 @@
+6.1) Architectural and Engineering Managers - $115,100
+
+6.2) Bachelor's Degree
+
+6.3) Give us ideas like Scotch Tape, Post-it Notes, Cars, etc.
+
+6.4) Your Employment Solutions, GBSD
+
+7.1) int[] nums = new int[10];
+     for (int i=0; i<10; i++) {}
+
+7.2) System.out.println(nums.length); 
+
+7.3) nums[2] = 30;
+
+7.4) The length of an arraylist can be modified and the length of an array cannot
+
+7.5) int a = 0;
+     int b = input.nextInt();
+     while (a<nums.length) {
+        if (b == nums[a]) {
+            return a;
+        }
+        a++;
+      }
+
+7.6) int[] nums = new int[10];
+     for (int i=1; i<=10; i++) {}
+
+7.7) String myString = "This is my String";
+
+7.8) System.out.println(myString + " and strings are cool.");
+
+7.9) myString.length;
+
+7.10) myString = myString.replaceAll("g", "");
+
+8.1) Ship [] myShips = new Ship [10];
+     for (int a=0; a<10; a++) {
+        myShip[a] = new Ship();
+     }
+
+8.2) myShip[a].shoot();
+
+8.3) private int sLength;
+
+8.4) float length; 
+     float height
+     public float getShipArea() {
+        retrun heigth* length;
+     }
+
+8.5) They are used to define what can be called from other methods
+
+9.1) PrintWriter pw = creatWriter("myTextFile");
+
+9.2) pw.println("more cowbell"); 
+
+9.3) BufferedReader br = BufferedReader(new FileReader("myTextFile.txt"));
